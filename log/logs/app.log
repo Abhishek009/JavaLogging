@@ -1,0 +1,30 @@
+2023-03-29 00:06:33.129 DEBUG [main] [com.logging.test.main(test.java:12)] - Debug log message
+2023-03-29 00:06:33.141 INFO [main] [com.logging.test.main(test.java:13)] - Info log message
+2023-03-29 00:06:33.141 ERROR [main] [com.logging.test.main(test.java:14)] - Error log message
+2023-03-29 00:06:33.142 WARN [main] [com.logging.test.main(test.java:15)] - Warn log message
+2023-03-29 00:06:33.142 FATAL [main] [com.logging.test.main(test.java:16)] - Fatal log message
+2023-03-29 00:06:33.185 DEBUG [main] [com.logging.test.main(test.java:19)] - 5
+2023-03-29 00:07:46.719 DEBUG [main] [com.logging.test.main(test.java:12)] - Debug log message
+2023-03-29 00:07:46.732 INFO [main] [com.logging.test.main(test.java:13)] - Info log message
+2023-03-29 00:07:46.732 ERROR [main] [com.logging.test.main(test.java:14)] - Error log message
+2023-03-29 00:07:46.733 WARN [main] [com.logging.test.main(test.java:15)] - Warn log message
+2023-03-29 00:07:46.733 FATAL [main] [com.logging.test.main(test.java:16)] - Fatal log message
+2023-03-29 00:07:46.780 DEBUG [main] [com.logging.test.main(test.java:19)] - 5
+2023-03-29 00:08:35.775 DEBUG [main] [com.logging.test.main(test.java:12)] - Debug log message
+2023-03-29 00:08:35.789 INFO [main] [com.logging.test.main(test.java:13)] - Info log message
+2023-03-29 00:08:35.789 ERROR [main] [com.logging.test.main(test.java:14)] - Error log message
+2023-03-29 00:08:35.790 WARN [main] [com.logging.test.main(test.java:15)] - Warn log message
+2023-03-29 00:08:35.790 FATAL [main] [com.logging.test.main(test.java:16)] - Fatal log message
+2023-03-29 00:08:35.837 DEBUG [main] [com.logging.test.main(test.java:19)] - 5
+2023-03-29 00:10:03.923 INFO [main] [com.logging.test.main(test.java:13)] - Info log message
+2023-03-29 00:10:03.934 ERROR [main] [com.logging.test.main(test.java:14)] - Error log message
+2023-03-29 00:10:03.934 WARN [main] [com.logging.test.main(test.java:15)] - Warn log message
+2023-03-29 00:10:03.935 FATAL [main] [com.logging.test.main(test.java:16)] - Fatal log message
+2023-03-29 00:12:18.423 INFO [main] [com.logging.test.main(test.java:13)] - Info log message
+2023-03-29 00:12:18.435 ERROR [main] [com.logging.test.main(test.java:14)] - Error log message
+2023-03-29 00:12:18.436 WARN [main] [com.logging.test.main(test.java:15)] - Warn log message
+2023-03-29 00:12:18.436 FATAL [main] [com.logging.test.main(test.java:16)] - Fatal log message
+2023-03-29 00:12:48.851 INFO [main] [com.logging.test.main(test.java:13)] - Info log message
+2023-03-29 00:12:48.862 ERROR [main] [com.logging.test.main(test.java:14)] - Error log message
+2023-03-29 00:12:48.863 WARN [main] [com.logging.test.main(test.java:15)] - Warn log message
+2023-03-29 00:12:48.863 FATAL [main] [com.logging.test.main(test.java:16)] - Fatal log message
